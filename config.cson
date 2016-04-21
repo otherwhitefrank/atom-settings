@@ -1,0 +1,20 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "4acee095-0c42-4eaf-8a9f-df35a9e669ca"
+  core:
+    autoHideMenuBar: true
+    themes: [
+      "atom-dark-ui"
+      "xeta-syntax"
+    ]
+  editor:
+    fontSize: 19
+    invisibles: {}
+  emmet: {}
+  "exception-reporting":
+    userId: "7ad940fd-3c82-9dbd-85db-917f63657b6d"
+  "merge-conflicts": {}
+  minimap: {}
+  mocha: {}
+  welcome:
+    showOnStartup: false
